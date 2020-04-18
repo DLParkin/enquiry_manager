@@ -1,0 +1,30 @@
+.enquiry-items {
+  margin-top: 7rem;
+}
+
+.table-input-cell {
+  border: none !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.enquiry-page {
+  /* margin-top: 7rem; */
+}
+
+.enquiry-page-segment {
+  padding-top: 2rem !important;
+  padding-bottom: 3rem !important;
+}
+
+.enquiry-page-segment-text {
+  text-align: center;
+}
+
+.comment-details {
+
+}
+
+.lazy-me {
+  margin-top: 4rem !important;
+}
